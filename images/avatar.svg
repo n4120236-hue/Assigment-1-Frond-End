@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-labelledby="avatarTitle">
+  <title id="avatarTitle">Avatar of Yershadi Nurassyl</title>
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B2128"/>
+      <stop offset="100%" stop-color="#12161B"/>
+    </linearGradient>
+    <linearGradient id="ringGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3ECF8E"/>
+      <stop offset="100%" stop-color="#2FAE75"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="118" fill="url(#bgGradient)" stroke="url(#ringGradient)" stroke-width="4"/>
+  <g stroke="#2B333B" stroke-width="1.5" fill="none" opacity="0.6">
+    <polygon points="120,70 143,86 134,113 106,113 97,86"/>
+    <polygon points="120,70 97,86 78,66 96,46 120,46"/>
+    <polygon points="120,70 143,86 165,66 147,46 120,46"/>
+    <polygon points="97,86 106,113 78,124 60,100 78,66"/>
+    <polygon points="143,86 134,113 162,124 180,100 165,66"/>
+  </g>
+  <text x="120" y="182" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#E7EBEE">YN</text>
+</svg>
